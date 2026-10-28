@@ -1,0 +1,5 @@
+streamlit>=1.32
+pandas>=2.0
+plotly>=5.18
+padelpy>=0.1.13
+rdkit>=2023.9.1
